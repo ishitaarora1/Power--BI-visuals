@@ -1,2 +1,2 @@
 # Power--BI-visuals
-This repository will contain the visuals and dashboard i create in power bi projects
+ ## This is a dashboard that i created from a sample sales dataset using powe bi .
